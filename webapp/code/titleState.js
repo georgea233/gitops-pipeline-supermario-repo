@@ -84,6 +84,8 @@ Mario.TitleState.prototype.CheckForChange = function(context) {
     }
 };
 
+
+
 // /**
 // 	Displays the title screen and menu.
 // 	Code by Rob Kleffner, 2011
